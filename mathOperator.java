@@ -6,6 +6,8 @@ equal to Number3. If one or more of the 4 common mathematical operations (+,-,*,
 complete the function, return the String representation of the mathematical function. If none of
 the 4 mathematical operations can make the statement true, return the String "None".
 
+Author: Kareem Gourdine
+
 *******************************************************************************************************/
 
 public class Main {
